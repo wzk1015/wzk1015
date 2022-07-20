@@ -9,4 +9,4 @@
 - Previously I graduated from Beihang University
 - My research interests include computer vision, music generation and deep learning
 - Welcome to my [Homepage](https://wzk.plus)!
-- You can contact me via wangzhaokai[at]sjtu[dot]edu[dot]cn
+- You can contact me via wangzhaokai [at] sjtu [dot] edu [dot] cn

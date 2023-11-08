@@ -14,16 +14,16 @@
 一些仓库介绍
 
 * 研究论文
-  * [CNMT](https://github.com/wzk1015/CNMT)：Confidence-aware Non-repetitive Multimodal Transformers for TextCaps (AAAI 2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/CNMT&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
-  * [CMT](https://github.com/wzk1015/video-bgm-generation)：Video Background Music Generation with Controllable Music Transformer (ACM MM 2021 Best Paper Award) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/video-bgm-generation&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
-  * [SymMV](https://github.com/zhuole1025/SymMV)：Video Background Music Generation: Dataset, Method and Evaluation (ICCV 2023) ![](https://unv-shield.librian.net/api/unv_shield?repo=zhuole1025/SymMV&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
+  * [CNMT](https://github.com/wzk1015/CNMT)：Confidence-aware Non-repetitive Multimodal Transformers for TextCaps (AAAI 2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/CNMT&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [CMT](https://github.com/wzk1015/video-bgm-generation)：Video Background Music Generation with Controllable Music Transformer (ACM MM 2021 Best Paper Award) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/video-bgm-generation&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [SymMV](https://github.com/zhuole1025/SymMV)：Video Background Music Generation: Dataset, Method and Evaluation (ICCV 2023) ![](https://unv-shield.librian.net/api/unv_shield?repo=zhuole1025/SymMV&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * 研究笔记: 
-  * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
+  * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * **有趣的游戏和工具**
   
-  * [Sanguosha](https://github.com/wzk1015/sanguosha)：文字版三国杀 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/sanguosha&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
+  * [Sanguosha](https://github.com/wzk1015/sanguosha)：文字版三国杀 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/sanguosha&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [GPT-turtlesoup](https://github.com/wzk1015/GPT-turtlesoup)：ChatGPT实现AI海龟汤，GPT出题、当玩家、当裁判 
   * [Pokemon-Types-PageRank](https://github.com/wzk1015/Pokemon-Types-PageRank)：宝可梦属性排名，使用PageRank算法
   * [wordle-solver](https://github.com/wzk1015/wordle-solver)：用多种方式求解wordle问题
@@ -37,7 +37,7 @@
   
 * 大学课程相关
 
-  * [BUAA-CS-course-notes](https://github.com/wzk1015/BUAA-CS-course-notes)：北航计算机专业课代码及期末复习笔记，包含很多课的代码 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/BUAA-CS-course-notes&url=https://avatars.githubusercontent.com/u/53330871&scale=0.5)
+  * [BUAA-CS-course-notes](https://github.com/wzk1015/BUAA-CS-course-notes)：北航计算机专业课代码及期末复习笔记，包含很多课的代码 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/BUAA-CS-course-notes&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [BUAA-getscore](https://github.com/wzk1015/BUAA-getscore)：北航查分小工具
   * [PhysicsExperiment](https://gitee.com/PhisicsExperiment/PhysicsExperiment)：基物实验数据计算程序
   * [pku-nsd-double-major](https://github.com/wzk1015/pku-nsd-double-major)：北大国发院经双课程复习资料

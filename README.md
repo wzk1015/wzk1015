@@ -13,23 +13,24 @@
 
 一些仓库介绍
 
-* 研究论文
+* 发表论文
   * [CNMT](https://github.com/wzk1015/CNMT)：Confidence-aware Non-repetitive Multimodal Transformers for TextCaps (AAAI 2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/CNMT&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [CMT](https://github.com/wzk1015/video-bgm-generation)：Video Background Music Generation with Controllable Music Transformer (ACM MM 2021 Best Paper Award) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/video-bgm-generation&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [SymMV](https://github.com/zhuole1025/SymMV)：Video Background Music Generation: Dataset, Method and Evaluation (ICCV 2023) ![](https://unv-shield.librian.net/api/unv_shield?repo=zhuole1025/SymMV&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
-* 研究笔记: 
+* 研究笔记
   * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * **有趣的游戏和工具**
   
   * [Sanguosha](https://github.com/wzk1015/sanguosha)：文字版三国杀 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/sanguosha&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
-  * [GPT-turtlesoup](https://github.com/wzk1015/GPT-turtlesoup)：ChatGPT实现AI海龟汤，GPT出题、当玩家、当裁判 
+  * **[GPT-turtlesoup](https://github.com/wzk1015/GPT-turtlesoup)：ChatGPT实现AI海龟汤，GPT出题、当玩家、当裁判**
   * [Pokemon-Types-PageRank](https://github.com/wzk1015/Pokemon-Types-PageRank)：宝可梦属性排名，使用PageRank算法
   * [wordle-solver](https://github.com/wzk1015/wordle-solver)：用多种方式求解wordle问题
   * [HRM-architecture](https://github.com/wzk1015/HRM-Architecture)：基于*人力资源机器*游戏的CPU、编译器等架构设计
   * [wzk-Game-Collection](https://github.com/wzk1015/wzk-Game-Collection)：python小游戏全集，飞行棋、扫雷、德州扑克、2048、五子棋等
-  
+
+  * **[Arxiv-Assistant](https://github.com/wzk1015/Arxiv-Assistant): 自动获取每日的arxiv新论文列表、使用GPT筛选、发邮件提醒**
   * [Scraper](https://github.com/wzk1015/Scraper)：小红书、微信公众号、马蜂窝爬虫
   * [luna](https://github.com/wzk1015/luna)：简单的版本管理系统
   * [hahaha](https://github.com/wzk1015/hahaha)：自动生成表情包

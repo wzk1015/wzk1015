@@ -5,9 +5,10 @@
 
 
 
-- I’m currently a second-year Ph.D. student at Shanghai Jiao Tong University and an intern at Shanghai AI Laboratory.
-- My research interests include computer vision, music generation, and deep learning.
+- I am currently a third-year Ph.D. candidate at Shanghai Jiao Tong University and Shanghai AI Laboratory.
+- My research interests include computer vision and music generation, especially for vision language models.
 - You can contact me via wangzhaokai [at] sjtu [dot] edu [dot] cn.
+- [Homepage](https://www.wzk.plus)
 
 
 
@@ -22,16 +23,16 @@
 * 研究笔记
   * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
-* **有趣的游戏和工具**
+* 有趣的游戏和工具
   
   * [Sanguosha](https://github.com/wzk1015/sanguosha)：文字版三国杀 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/sanguosha&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
-  * **[GPT-turtlesoup](https://github.com/wzk1015/GPT-turtlesoup)：ChatGPT实现AI海龟汤，GPT出题、当玩家、当裁判**
+  * [GPT-turtlesoup](https://github.com/wzk1015/GPT-turtlesoup)：ChatGPT实现AI海龟汤，GPT出题、当玩家、当裁判
   * [Pokemon-Types-PageRank](https://github.com/wzk1015/Pokemon-Types-PageRank)：宝可梦属性排名，使用PageRank算法
-  * [wordle-solver](https://github.com/wzk1015/wordle-solver)：用多种方式求解wordle问题
+  * [wordle-solver](https://github.com/wzk1015/wordle-solver)：wordle游戏求解器
   * [HRM-architecture](https://github.com/wzk1015/HRM-Architecture)：基于*人力资源机器*游戏的CPU、编译器等架构设计
   * [wzk-Game-Collection](https://github.com/wzk1015/wzk-Game-Collection)：python小游戏全集，飞行棋、扫雷、德州扑克、2048、五子棋等
 
-  * **[Arxiv-Assistant](https://github.com/wzk1015/Arxiv-Assistant): 自动获取每日的arxiv新论文列表、使用GPT筛选、发邮件提醒**
+  * [Arxiv-Assistant](https://github.com/wzk1015/Arxiv-Assistant): 自动获取每日的arxiv新论文列表、使用GPT筛选、发邮件提醒
   * [Scraper](https://github.com/wzk1015/Scraper)：小红书、微信公众号、马蜂窝爬虫
   * [luna](https://github.com/wzk1015/luna)：简单的版本管理系统
   * [hahaha](https://github.com/wzk1015/hahaha)：自动生成表情包

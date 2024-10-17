@@ -19,6 +19,7 @@
   * [CMT](https://github.com/wzk1015/video-bgm-generation)：Video Background Music Generation with Controllable Music Transformer (ACM MM 2021 Best Paper Award) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/video-bgm-generation&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [SymMV](https://github.com/zhuole1025/SymMV)：Video Background Music Generation: Dataset, Method and Evaluation (ICCV 2023) ![](https://unv-shield.librian.net/api/unv_shield?repo=zhuole1025/SymMV&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [PIIP](https://github.com/OpenGVLab/PIIP)：Parameter-Inverted Image Pyramid Networks ![](https://unv-shield.librian.net/api/unv_shield?repo=OpenGVLab/PIIP&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [ITINERA](https://github.com/YihongT/ITINERA)：Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning ![](https://unv-shield.librian.net/api/unv_shield?repo=YihongT/ITINERA&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * 研究笔记
   * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)

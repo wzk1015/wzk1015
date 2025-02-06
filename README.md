@@ -1,4 +1,3 @@
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wzk1015&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wzk1015&theme=github&utcOffset=8)
 
@@ -12,7 +11,9 @@
 
 
 
-一些仓库介绍
+<details>
+
+<summary>一些仓库介绍</summary>
 
 * 发表论文
   * [CNMT](https://github.com/wzk1015/CNMT)：Confidence-aware Non-repetitive Multimodal Transformers for TextCaps (AAAI 2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/CNMT&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
@@ -46,3 +47,4 @@
   * [PhysicsExperiment](https://gitee.com/PhisicsExperiment/PhysicsExperiment)：基物实验数据计算程序
   * [pku-nsd-double-major](https://github.com/wzk1015/pku-nsd-double-major)：北大国发院经双课程复习资料
 
+</details>

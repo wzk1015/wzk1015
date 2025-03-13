@@ -22,6 +22,7 @@
   * [PIIP](https://github.com/OpenGVLab/PIIP)：Parameter-Inverted Image Pyramid Networks (NeurIPS 2024 Spotlight) ![](https://unv-shield.librian.net/api/unv_shield?repo=OpenGVLab/PIIP&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [ITINERA](https://github.com/YihongT/ITINERA)：Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning (EMNLP 2024 Industry Track & KDD UrbComp 2024 Best Paper Award) ![](https://unv-shield.librian.net/api/unv_shield?repo=YihongT/ITINERA&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [VMB](https://github.com/wbs2788/VMB)：Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation ![](https://unv-shield.librian.net/api/unv_shield?repo=wbs2788/VMB&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [Mono-InternVL](https://github.com/OpenGVLab/Mono-InternVL)：Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training (CVPR 2025) ![](https://unv-shield.librian.net/api/unv_shield?repo=OpenGVLab/Mono-InternVL&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * 研究笔记
   * [COCO-leaderboard](https://github.com/wzk1015/COCO-leaderboard)：COCO目标检测leaderboard笔记 ![](https://unv-shield.librian.net/api/unv_shield?repo=wzk1015/COCO-leaderboard&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)

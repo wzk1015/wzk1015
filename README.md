@@ -4,7 +4,7 @@
 
 
 
-- I am currently a third-year Ph.D. candidate at Shanghai Jiao Tong University and Shanghai AI Laboratory.
+- I am currently a fourth-year Ph.D. candidate at Shanghai Jiao Tong University and Shanghai AI Laboratory.
 - My research interests include computer vision and music generation, especially for vision language models.
 - You can contact me via wangzhaokai [at] sjtu [dot] edu [dot] cn.
 - [Homepage](https://www.wzk.plus)
